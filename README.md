@@ -52,3 +52,5 @@ CANBus/sendData(): the data will be sent to writeData method.
 CANBus/writeData(): a wrapper which calls writeBytes via three communication types,TCP/socketCAN/serial.
 ICANDataPort/writeBytes(): the data will be sent to CANBus.
 
+#simulator hardware example
+https://www.youtube.com/watch?v=UffHQoiQ9aU
