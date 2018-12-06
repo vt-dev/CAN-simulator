@@ -1,5 +1,5 @@
 # CAN-simulator
-CAN Simulator is written in Java to simulate CAN Bus class/interfaces. The objects includes CAN Bus, CAN message master/client, communication ports and message listener. This project provides a good example of getting familiar with the concept of CAN Bus.
+CAN Simulator is written in Java to simulate CAN Bus class/interfaces communication through serial port. The objects includes CAN Bus, CAN message master/client, communication ports and message listener. This project provides a good example of getting familiar with the concept of CAN Bus.
 
 # ICANBus
 ICANBus is the class to represent the CAN Bus and define operations of data read/write on the CAN Bus. It contains CANReader and CANRawMessageConsumer. 
@@ -54,3 +54,5 @@ ICANDataPort/writeBytes(): the data will be sent to CANBus.
 
 # Simulator hardware example
 https://www.youtube.com/watch?v=UffHQoiQ9aU
+
+You can follow up the video to assembly a CAN Bus simulator. It contains a cluster and BCM, which can simulate the door lock/unlock, lights, cluster meters. CAN-simulator codes can be used to communicate the CAN bus simulator through PC.
