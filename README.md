@@ -1,3 +1,7 @@
+# USE AT YOUR OWN RISK!
+READ CAREFULLY! 
+We are not responsible for any lost, damages or issues that may occur.
+
 # CAN-simulator
 CAN Simulator is written in Java to simulate CAN Bus class/interfaces communication through serial port. The objects includes CAN Bus, CAN message master/client, communication ports and message listener. This project provides a good example of getting familiar with the concept of CAN Bus.
 
