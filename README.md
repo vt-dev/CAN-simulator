@@ -61,6 +61,8 @@ https://www.youtube.com/watch?v=UffHQoiQ9aU
 
 You can follow up the video to assembly a CAN Bus simulator. It contains a cluster and BCM, which can simulate the door lock/unlock, lights, cluster meters. CAN-simulator codes can be used to communicate the CAN bus simulator through PC.
 
+CAN Simulator works with a CAN device to simulate the CAN communication. In this example, a CAN Bus deivce box is used to generate the CAN message, and CAN Simulator collects and forwards the messages to the third-party. Of course, you can follow the similar assembly method to DIY your own device. Let us know if you have any questions.
+
 # Firmware
-The CAN Simulator needs to work with firmware to implement the CAN Bus communications.
+The CAN Simulator needs to work with firmware to implement the CAN Bus communications on ARM-based board.
 Let us know if you have any question.
