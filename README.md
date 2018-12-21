@@ -65,4 +65,4 @@ CAN Simulator works with a CAN device to simulate the CAN communication. In this
 
 # Firmware
 The CAN Simulator needs to work with firmware to implement the CAN Bus communications on ARM-based board.
-Let us know if you have any question.
+The firmware depends on the type of PCB chip to be used. 
